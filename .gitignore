@@ -1,5 +1,6 @@
 __pycache__/
 .env
-.flake8
 venv/
+.flake8
+
 
